@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Alex Paramonte'
+description: 'Media Operations Professional'
 
 # Images
 avatar: 'avatar.jpg'
@@ -12,9 +12,9 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
+#facebook: 'myfacebook'
+twitter: 'alex_paramonte'
+linkedin: 'mylinkedin'
 instagram: 'myinsta'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
